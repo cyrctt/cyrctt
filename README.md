@@ -25,4 +25,4 @@ I'm a 3rd-year Computer Engineering student at the University of Illinois Chicag
 *   Optimizing my PC build and testing out new Linux distributions.
 
 ---
-📫 **Let's Connect:** [Your LinkedIn Profile URL] | [Your Email]
+📫 **Let's Connect:** amedin72@uic.edu
