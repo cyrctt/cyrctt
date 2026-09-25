@@ -21,7 +21,6 @@ I'm a 3rd-year Computer Engineering student at the University of Illinois Chicag
 
 ## 🎮 Off the Clock
 *   Streaming *Deadlock*, *Valorant*, and *Minecraft* on Twitch (**cyrct**).
-*   Optimizing my PC build and testing out new Linux distributions.
 
 ---
 📫 **Let's Connect:** amedin72@uic.edu
